@@ -110,3 +110,9 @@ I wrote the program that creates these curves 18 years ago aprox. but never publ
 There is a script named `compile.sh` that you can use in order to compile and package the project. Or, just execute the following command: `mvn clean compile assembly:single`.
 
 The JAR file is created at `space-filling-curves/target`, just execute a `java -jar <jar file generated>`. The GUI that will appear looks like this:
+
+![Fig19](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/welcome-screen.png)
+
+## Comments
+
+Please send any comment about this article to aaguilerav@me.com or alejandro.aguilera.vega@gmail.com. Your contributions or critics are always welcome.
