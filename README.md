@@ -1,6 +1,8 @@
 # Space Filling Curves
 ---
 
+[![Build Status](https://travis-ci.org/aaguilerav/space-filling-curves.svg?branch=master)](https://travis-ci.org/aaguilerav/space-filling-curves)
+
 There is a mathematical curious thing called "Space Filling Curves" that caught my attention several years ago, and ever since I've been studying its mathematical properties.  
 
 Some [MIT Guy](http://people.csail.mit.edu/jaffer/Geometry/PSFC) defines it the following way:
@@ -39,9 +41,9 @@ _(Iteration 2)_
 ![Fig5](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-1-3d-3.png)
 _(Iteration 3)_
 
-#### My Own Designs
+### My Own Designs
 
-**Using the same methodology**, let's see how it looks when you divide the same right triangle into 4 parts. The design becomes very interesting, some kind of "cellular" like patterns appear after several iterations.
+**Using the same methodology**, let's see what happens when we divide the same right triangle into 4 parts. The design becomes very interesting, some kind of "cellular" like patterns appear after several iterations.
 
 ![Fig6](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-2-4d.gif)
 
@@ -71,7 +73,7 @@ _(Iteration 2)_
 ![Fig13](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-3-5d-3.png)
 _(Iteration 3)_
 
-Now, I realized that the "speed" in which these curves converge to the limit where they completely fill the 2-dimensional space has no need to be a constant, what do I mean by that?, take any of the curves above, every part of the curve as a result of the division (by 3, 4 or 5) of the area  is more or less the same in terms of length.
+Now, I realized that the "speed" in which these curves converge to the limit where they completely fill the 2-dimensional space has no need to be a constant, what do I mean by that?, take any of the curves above, every part of the curve as a result of the division (by 3, 4 or 5) of the whole area into smaller parts is more or less the same in terms of length.
 
 The following curves vary in length dramatically depending of the particular sub-section of the area you chose to look, yet, they are also space-filling curves. The fractal appearance is more evident on these cases:
 
@@ -100,3 +102,5 @@ _(Iteration 2)_
 _(Iteration 3)_
 
 ### The Software
+
+I wrote the program that creates these curves 17 years ago aprox. I used
