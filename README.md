@@ -9,7 +9,7 @@ Some [MIT Guy](http://people.csail.mit.edu/jaffer/Geometry/PSFC) defines it the 
 
 A more simple (yet incomplete) explanation would be:
 
->A 1-dimensional geometrical figure that _fills_ a 2-dimensional or higher space when its  length increases to a limit, based on a parameter.
+>A 1-dimensional geometrical figure that _fills_ a 2-dimensional or higher space when its  length increases to a limit based on a parameter, and **never crosses itself**.
 
 The first person that discovered this kind of mathematical curiosities was [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano). One of his first discoveries was the following curve:
 
@@ -20,7 +20,7 @@ And after him there have been many others that have contributed with their own d
 
 ## My contribution
 
-I've been getting into the computer programming behind creating these curves, and the results have been very surprising.
+I've been getting into the computer programming behind the creation of these curves, and the results have been very surprising.
 
 The first one I programmed is a very well known curve on the internet:
 
@@ -39,7 +39,7 @@ _(Iteration 2)_
 ![Fig5](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-1-3d-3.png)
 _(Iteration 3)_
 
-The following designs are of my own.
+#### My Own Designs
 
 **Using the same methodology**, let's see how it looks when you divide the same right triangle into 4 parts. The design becomes very interesting, some kind of "cellular" like patterns appear after several iterations.
 
