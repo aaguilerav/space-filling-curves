@@ -79,4 +79,24 @@ The following curves vary in length dramatically depending of the particular sub
 
 ![Fig15](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10d.gif)
 
-Again, here are the first three iterations:
+Again, here are the first three iterations for each one of these curves:
+
+![Fig16](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10dr-1.png)
+_(Iteration 1)_
+
+![Fig17](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10dr-2.png)
+_(Iteration 2)_
+
+![Fig18](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10dr-3.png)
+_(Iteration 3)_
+
+![Fig16](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10d-1.png)
+_(Iteration 1)_
+
+![Fig17](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10d-2.png)
+_(Iteration 2)_
+
+![Fig18](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10d-3.png)
+_(Iteration 3)_
+
+### The Software
