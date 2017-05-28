@@ -103,4 +103,10 @@ _(Iteration 3)_
 
 ### The Software
 
-I wrote the program that creates these curves 17 years ago aprox. I used
+I wrote the program that creates these curves 18 years ago aprox. but never published it until now. I used [Java Swing](http://docs.oracle.com/javase/tutorial/uiswing/) for the drawings, I'm planning to update the technology to ReactJS or another web based framework.
+
+### Compiling, Packaging and Executing the software
+
+There is a script named `compile.sh` that you can use in order to compile and package the project. Or, just execute the following command: `mvn clean compile assembly:single`.
+
+The JAR file is created at `space-filling-curves/target`, just execute a `java -jar <jar file generated>`. The GUI that will appear looks like this:
