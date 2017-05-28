@@ -22,7 +22,7 @@ And after him there have been many others that have contributed with their own d
 
 ## My contribution
 
-I've been getting into the computer programming behind the creation of these curves, and the results have been very surprising.
+Once I got into the computer programming behind the creation of these curves the results were very surprising.
 
 The first one I programmed is a very well known curve on the internet:
 
