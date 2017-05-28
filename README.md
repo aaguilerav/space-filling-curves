@@ -16,11 +16,11 @@ The first person that discovered this kind of mathematical curiosities was [Gius
 ![Fig1](https://upload.wikimedia.org/wikipedia/commons/6/64/Peanocurve.svg)
 _(Three iterations of the Peano curve construction, whose limit is a space-filling curve.)_
 
-And after him there have been a lot of people that have contributed with their own designs ([David Hilbert](https://en.wikipedia.org/wiki/Hilbert_curve), [Wacław Sierpiński](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve), among others).
+And after him there have been many others that have contributed with their own designs, some examples are: [David Hilbert](https://en.wikipedia.org/wiki/Hilbert_curve) and [Wacław Sierpiński](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve).
 
 ## My contribution
 
-I've been getting into the computer programming behind creating these curves, and I've been surprised with the results.
+I've been getting into the computer programming behind creating these curves, and the results have been very surprising.
 
 The first one I programmed is a very well known curve on the internet:
 
@@ -60,7 +60,7 @@ _(Iteration 3)_
 
 ![Fig10](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-3-5d.gif)
 
-Here are the first three iterations:
+Again, here are the first three iterations:
 
 ![Fig11](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-3-5d-1.png)
 _(Iteration 1)_
@@ -71,10 +71,12 @@ _(Iteration 2)_
 ![Fig13](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-3-5d-3.png)
 _(Iteration 3)_
 
-Know, I realized that the "speed" in which these curves converge to the limit where they completely fill the 2-dimensional space has no need to be a constant, what do I mean by that?, take any of the curves above, every part of the curve as a result of the division (by 3, 4 or 5) of the area  is more or less the same in terms of length.
+Now, I realized that the "speed" in which these curves converge to the limit where they completely fill the 2-dimensional space has no need to be a constant, what do I mean by that?, take any of the curves above, every part of the curve as a result of the division (by 3, 4 or 5) of the area  is more or less the same in terms of length.
 
-The following curves vary in length dramatically depending of the particular sub-section of the area you chose to look, yet, they are also space-filling curves:
+The following curves vary in length dramatically depending of the particular sub-section of the area you chose to look, yet, they are also space-filling curves. The fractal appearance is more evident on these cases:
 
 ![Fig14](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10dr.gif)
 
 ![Fig15](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/sfc-4-10d.gif)
+
+Again, here are the first three iterations:
