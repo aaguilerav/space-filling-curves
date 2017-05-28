@@ -113,6 +113,11 @@ The JAR file is created at `space-filling-curves/target`, just execute a `java -
 
 ![Fig19](https://raw.githubusercontent.com/aaguilerav/space-filling-curves/master/src/main/resources/welcome-screen.png)
 
+### Next Steps
+
+* Analyzing more in detail the mathematical properties of my designs.
+* And of course, creating new designs.
+
 ## Comments
 
 Please send any comment about this article to aaguilerav@me.com or alejandro.aguilera.vega@gmail.com. Your contributions or critics are always welcome.
