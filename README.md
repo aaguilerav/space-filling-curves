@@ -5,7 +5,7 @@
 
 There is a mathematical curious thing called "Space Filling Curves" that caught my attention several years ago, and ever since I've been studying its mathematical properties.  
 
-Some [MIT Guy](http://people.csail.mit.edu/jaffer/Geometry/PSFC) defines it the following way:
+Some people in [MIT](http://people.csail.mit.edu/jaffer/Geometry/PSFC) defines it the following way:
 
 > "A [space-filling curve](https://en.wikipedia.org/wiki/Space-filling_curve) is a parameterized function which maps a unit line segment to a continuous curve in the unit square, cube, hypercube, etc, which gets arbitrarily close to a given point in the unit cube as the parameter increases."
 
