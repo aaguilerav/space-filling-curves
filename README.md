@@ -3,6 +3,8 @@
 
 [![Build Status](https://travis-ci.org/aaguilerav/space-filling-curves.svg?branch=master)](https://travis-ci.org/aaguilerav/space-filling-curves)
 
+[*Projects like this one are prototypes, that means that special attention was given to the problem itself rather than having a perfect software design.*]
+
 There is a mathematical curious thing called "Space Filling Curves" that caught my attention several years ago, and ever since I've been studying its mathematical properties.  
 
 Some people in [MIT](http://people.csail.mit.edu/jaffer/Geometry/PSFC) defines it the following way:
